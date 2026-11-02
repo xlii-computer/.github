@@ -2,7 +2,7 @@
 
 A personal AI substrate for the terminal.
 
-Most AI tools are a chatbot pretending to be a developer. **xlii inverts that**: a language-model agent at the shell level of your own machine — local files first, remote services second, and the model never trusted as a security boundary.
+**They built the genie. We built a lamp. It comes out when you call it.** xlii puts a language-model agent at the shell level of your own machine, summoned and never in charge: local files first, remote services second, and the model never trusted as a security boundary.
 
 **Start here**
 
